@@ -1,7 +1,11 @@
+body {
+    background-image: url('https://wallpapercave.com/wp/wp2757874.gif');  
+}
+
 #page-home {
     height: 100vh;
 
-    background: url('../assets/home-background.svg') no-repeat;
+    /*background: url('../assets/home-background.svg') no-repeat;*/
     background-position: 35vw bottom;
 
 }
