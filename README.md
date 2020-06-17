@@ -1,4 +1,4 @@
-## NLW
+## NLW :computer:
 
 ## Essa é a página principal da aplicação
 
